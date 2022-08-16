@@ -47,4 +47,10 @@ sections:
       url: open.gov.sg
       image: /images/Work From Anywhere.jpg
       alt: Image alt text
+  - infobar:
+      title: Build with us
+      description: Be part of the team that continuously builds products that impact
+        millions of citizens and public officers' lives.
+      button: Apply now
+      url: open.gov.sg
 ---
