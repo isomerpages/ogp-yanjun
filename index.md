@@ -38,4 +38,13 @@ sections:
       button: Meet the team
       url: open.gov.sg
       image: /images/Growing Team.jpg
+  - infopic:
+      title: Bed, cafe, mountain
+      description: "Choose to work from anywhere - your bed, a cafe, or the
+        office.  At OGP, we value outputs, not the number of hours you sit at
+        your desk. "
+      button: Life@ogp
+      url: open.gov.sg
+      image: /images/Work From Anywhere.jpg
+      alt: Image alt text
 ---
