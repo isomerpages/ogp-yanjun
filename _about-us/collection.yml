@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Who we are.md
-      - example-page.md
