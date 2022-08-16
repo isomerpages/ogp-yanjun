@@ -30,4 +30,12 @@ sections:
       url: open.gov.sg
       image: /images/Hack For Public Good.jpg
       alt: Image alt text
+  - infopic:
+      title: A growing team
+      description: "We're a team of designers, engineers, TV producers, professors,
+        and even police officers, all driven by a shared passion for building
+        impactful tech.  "
+      button: Meet the team
+      url: open.gov.sg
+      image: /images/Growing Team.jpg
 ---
