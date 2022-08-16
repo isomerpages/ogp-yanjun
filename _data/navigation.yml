@@ -45,5 +45,5 @@ links:
         url: /permalink
       - title: Blog
         url: /permalink
-  - title: About us
-    collection: example-folder
+  - title: About Us
+    collection: about-us
