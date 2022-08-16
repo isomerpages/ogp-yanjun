@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: We build tech for public good
       subtitle: Imagine a modern tech organisation solving problems for the benefit of
         the public at large. That's what Open Government Products does.
       background: /images/Header.jpg
