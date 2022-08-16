@@ -23,10 +23,13 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Building for impact
+      description: From digitalising parking, to getting a nation vaccinated against
+        COVID-19, our purpose is to positively impact the lives of citizens and
+        public officers.
+      button: All Products
+      url: open.gov.sg
+      image: /images/favicon-isomer.ico
+      alt: Image alt text
 ---
