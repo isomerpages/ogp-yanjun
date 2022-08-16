@@ -38,6 +38,7 @@ sections:
       button: Meet the team
       url: open.gov.sg
       image: /images/Growing Team.jpg
+      alt: growing team
   - infopic:
       title: Bed, cafe, mountain
       description: "Choose to work from anywhere - your bed, a cafe, or the
