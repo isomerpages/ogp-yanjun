@@ -22,4 +22,12 @@ sections:
       url: open.gov.sg
       image: /images/Logo Lineup.jpg
       alt: Image alt text
+  - infopic:
+      title: Hack for Public Good
+      description: "Our annual Hack for Public Good initiative empowers people to find
+        problems worth solving, and build ways to solve them.  "
+      button: 2022 HACKATHON
+      url: open.gov.sg
+      image: /images/Hack For Public Good.jpg
+      alt: Image alt text
 ---
