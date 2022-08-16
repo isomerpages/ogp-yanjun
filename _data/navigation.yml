@@ -1,15 +1,47 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: aboutus
+    sublinks:
+      - title: Who we are
+        url: /permalink
+      - title: Meet the team
+        url: /permalink
+      - title: Life@OGP
+        url: /permalink
+  - title: Careers
+    url: /permalink
+    sublinks:
+      - title: Open Positions
+        url: /permalink
+      - title: Our Hiring Process
+        url: /permalink
+      - title: HumansofOGP
+        url: /permalink
+  - title: Products
+    url: /permalink
+    sublinks:
+      - title: Our Products
+        url: /permalink
+      - title: Hack For Public Good
+        url: /permalink
+      - title: COVID-19
+        url: /permalink
+  - title: Developers
+    url: /permalink
+    sublinks:
+      - title: Open Source
+        url: /permalink
+      - title: Product Status
+        url: /permalink
+  - title: Newsroom
+    url: /permalink
+    sublinks:
+      - title: In the news
+        url: /permalink
+      - title: Press Releases
+        url: /permalink
+      - title: Media Kit
+        url: /permalink
+      - title: Blog
+        url: /permalink
