@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - faq.md
       - Who We Are.md
       - Meet the team.md
       - Life@OGP.md
