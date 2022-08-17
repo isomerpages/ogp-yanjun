@@ -2,4 +2,5 @@ collections:
   contact-us:
     output: true
     order:
+      - Partner with us.md
       - Contact Us.md
