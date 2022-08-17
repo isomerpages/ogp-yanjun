@@ -22,4 +22,3 @@ You understand users' needs, create intuitive user flows and polish detailed aes
 
 ### Corporate Team 
 You create the environment for product teams to maximise their impact for public good
-
