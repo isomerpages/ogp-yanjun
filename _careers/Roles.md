@@ -36,4 +36,3 @@ The corporate team is made up of the following roles:
 **Partnerships** - Propagate OGP practices and influence up-stream policy-making across the rest of government so as to accelerate improvements in government in tech and beyond. 
 
 **Policy**-
-
